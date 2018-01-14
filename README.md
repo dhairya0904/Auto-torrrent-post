@@ -1,6 +1,11 @@
-# Auto-torrrent-post
+# Pirate Auto-torrrent-post
 
-just write the name of the movie, tv series, or anything
+A command line interface to scrape PirateBay and show top links for given movie, tv or other (sorted in order of seeders). User can select any link and its magnet link will be posted on ZbigZ(a cloud platform where user can add torrent) from where it can later be downloaded.
 
-top 10 links will be showed from pirate bay
-select any one of it and magnet link will be automatically posted to your zbigz account
+Language
+Python
+
+Dependencies
+1. Beautiful Soup
+2. Requests
+3. Regex
